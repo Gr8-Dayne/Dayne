@@ -20,3 +20,7 @@ In my own words Growth Mindset means: Don't close your brain off to new and pote
 
 >If at first you don't succeed, try try try again.
 -William Edward Hickson
+
+
+
+[Cheat Coding](https://gr8-dayne.github.io/Gr8-Dayne.github.io-CodingCheats-/)
