@@ -6,7 +6,7 @@
 
 Hey Y'all, My name is Dayne. I am a USMC Reservist of 6 years, and I am a huge motorhead. 
 
-URL: https://github.com/Gr8-Dayne
+https://github.com/Gr8-Dayne
 
 ### **Growth Mindset**
 
