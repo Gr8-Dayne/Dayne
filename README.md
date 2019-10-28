@@ -1,12 +1,10 @@
-# Welcome to Gr8ness
+# Journey to Gr8ness
 
 ![Image of Great Dane](https://i.pinimg.com/originals/8b/42/c3/8b42c3c79331afa0b4fdf41628067029.jpg)
 
-### The Man, The Myth, *Dayne*
+### About me
 
-Hey Y'all, My name is Dayne. I am a huge motorhead and I love driving my BMW and not using the blinker. 
-
-![Image of Blinker Fluid](https://static.carthrottle.com/workspace/uploads/posts/2015/06/1372958354211-558c038518d15.jpg)
+Hey Y'all, my name is Dayne. I am a huge motorhead, and I am looking forward to a lot of learning.
 
 https://github.com/Gr8-Dayne
 
