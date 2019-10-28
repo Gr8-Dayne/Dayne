@@ -4,7 +4,7 @@
 
 ### The Man, The Myth, *Dayne*
 
-Hey Y'all, My name is Dayne. I love driving my BMW and not using the blinker. 
+Hey Y'all, My name is Dayne. I am a huge motorhead and I love driving my BMW and not using the blinker. 
 
 ![Image of Blinker Fluid](https://static.carthrottle.com/workspace/uploads/posts/2015/06/1372958354211-558c038518d15.jpg)
 
