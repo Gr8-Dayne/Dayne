@@ -6,7 +6,7 @@
 
 Hey Y'all, my name is Dayne. I am a huge motorhead, and I am looking forward to a lot of learning.
 
-https://github.com/Gr8-Dayne
+[Gr8-Dayne's GitHub](https://github.com/Gr8-Dayne)
 
 ### **Growth Mindset**
 
