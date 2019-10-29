@@ -24,12 +24,12 @@ In my own words Growth Mindset means: Don't close your brain off to new and pote
 
 ##### Reading Assignments
 
-- [01 Learning Markdown] 
+- [01 Learning Markdown](https://gr8-dayne.github.io/Markdown/)
 - [02 The Coder's Computer](https://gr8-dayne.github.io/.github.io-CommandPromptNotes/)
-- [03 Revisions and the Cloud]
-- [04 Structur Webpages with HTML]
-- [05 Design Webpages with CSS]
-- [06 Dynamic Webpages with JavaScript]
-- [07 Programming with JavaScript]
-- [08 Operators and Loops and Loops]
+- [03 Revisions and the Cloud]()
+- [04 Structur Webpages with HTML]()
+- [05 Design Webpages with CSS]()
+- [06 Dynamic Webpages with JavaScript]()
+- [07 Programming with JavaScript]()
+- [08 Operators and Loops and Loops]()
 
