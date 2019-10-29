@@ -4,7 +4,7 @@
 
 ### About me
 
-Hey Y'all, my name is Dayne. I am a huge motorhead, and I am looking forward to a lot of learning.
+Hey Y'all, my name is Dayne. I like cars and motorcycles. I am looking forward to a lot of learning as this is my first time trying my hand at coding.
 
 [Gr8-Dayne's GitHub](https://github.com/Gr8-Dayne)
 
