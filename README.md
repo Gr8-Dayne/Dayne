@@ -31,5 +31,5 @@ In my own words Growth Mindset means: Don't close your brain off to new and pote
 - [05 Design Webpages with CSS](https://gr8-dayne.github.io/CSS-Webpages/)
 - [06 Dynamic Webpages with JavaScript](https://gr8-dayne.github.io/JavaScript-Webpages/)
 - [07 Programming with JavaScript](https://gr8-dayne.github.io/JavaScript-Programming/)
-- [08 Operators and Loops and Loops]()
+- [08 Operators and Loops and Loops](https://gr8-dayne.github.io/Operators-and-Loopsx2/)
 
