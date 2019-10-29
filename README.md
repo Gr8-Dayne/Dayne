@@ -28,7 +28,7 @@ In my own words Growth Mindset means: Don't close your brain off to new and pote
 - [02 The Coder's Computer](https://gr8-dayne.github.io/.github.io-CommandPromptNotes/)
 - [03 Revisions and the Cloud](https://gr8-dayne.github.io/Git-Smart/)
 - [04 Structure Webpages with HTML](https://gr8-dayne.github.io/HTML-Structured-Pages/)
-- [05 Design Webpages with CSS]()
+- [05 Design Webpages with CSS](https://gr8-dayne.github.io/CSS-Webpages/)
 - [06 Dynamic Webpages with JavaScript]()
 - [07 Programming with JavaScript]()
 - [08 Operators and Loops and Loops]()
