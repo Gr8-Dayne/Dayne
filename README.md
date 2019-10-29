@@ -22,8 +22,14 @@ In my own words Growth Mindset means: Don't close your brain off to new and pote
 -William Edward Hickson
 
 
+##### Reading Assignments
 
-[Cheat Coding](https://gr8-dayne.github.io/Gr8-Dayne.github.io-CodingCheats-/)
-[Command Prompt Basics](https://gr8-dayne.github.io/.github.io-CommandPromptNotes/)
-
+- [01 Learning Markdown] 
+- [02 The Coder's Computer](https://gr8-dayne.github.io/.github.io-CommandPromptNotes/)
+- [03 Revisions and the Cloud]
+- [04 Structur Webpages with HTML]
+- [05 Design Webpages with CSS]
+- [06 Dynamic Webpages with JavaScript]
+- [07 Programming with JavaScript]
+- [08 Operators and Loops and Loops]
 
